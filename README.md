@@ -1,4 +1,6 @@
-# cs50
+# TITULO DE TU PROYECTO
+## Mi proyecto trata de etc
+### ABC
+#### EFG
 
-Hola prueba
-Los pollitos
+todo lo demas
